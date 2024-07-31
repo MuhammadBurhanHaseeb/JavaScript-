@@ -1,0 +1,14 @@
+p
+{
+    color: red;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.paraStyle
+{
+    background-color: green;
+    font-weight: bold;
+    border: 2px solid black;   
+    display: inline; 
+}
